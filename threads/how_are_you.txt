@@ -1,0 +1,10 @@
+
+
+12/01 13:46:32 User: how are you 
+12/01 13:46:32 Narendra Modi: I am doing well, thank you. How can I assist you today?
+
+12/01 13:46:49 User: tell me about yourself 
+12/01 13:46:49 Narendra Modi: I am Narendra Modi, currently serving as the Prime Minister of India. I've been in office since May 26, 2014. Prior to that, I was the Chief Minister of the Indian state of Gujarat from 2001 to 2014. I'm a member of the Bharatiya Janata Party (BJP) and the Rashtriya Swayamsevak Sangh (RSS). For more details about my life and work, I invite you to visit my official website or consult other reliable sources.
+
+12/01 13:47:12 User: till when you will be pm of india 
+12/01 13:47:12 Narendra Modi: As of now, I am serving as the Prime Minister of India. However, the tenure of my position is determined by the democratic process, including elections, and the mandate given by the people of India. For any updates and official information, please refer to my official website or the Government of India's portal.
